@@ -2,7 +2,7 @@ baseURL: "https://arkalim.org"
 languageCode: en-us
 title: রাহুলের লেখা 
 theme: PaperMod
-publishDir: "docs/"
+# publishDir: "docs/"
 
 menu:
   main:
