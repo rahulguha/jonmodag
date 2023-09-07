@@ -1,25 +1,25 @@
 baseURL: "https://arkalim.org"
 languageCode: en-us
-title: Abdur Rahman
+title: রাহুলের লেখা 
 theme: PaperMod
 
 menu:
   main:
     - identifier: home
-      name: Home
+      name: home
       url: /
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog
+    - identifier: jonmodag
+      name: জন্মদাগ সিরিজ
+      url: /jonmodag
       weight: 20
-    - identifier: projects
-      name: Projects
-      url: /projects
+    - identifier: sadalap
+      name: সদালাপী প্রলাপকথন
+      url: /sadalap
       weight: 30
-    - identifier: experience
-      name: Experience
-      url: /experience
+    - identifier: rifka
+      name: রিফকার চিঠি
+      url: /rifka
       weight: 40
     - identifier: search
       name: Search
@@ -48,11 +48,11 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Hi 👋! I'm Abdur, an ambitious DevOps Intern at [**16Bit.ai**](https://www.16bit.ai), an innovative healthcare startup in Toronto. Currently pursuing my [**MSc in Applied Computing**](https://mscac.utoronto.ca/) at the esteemed University of Toronto, I bring a solid foundation in Software Engineering with professional experience. I am captivated by the realm of Cloud Computing and DevOps practices, seeking to revolutionize how we deploy applications in the modern era. To enhance my expertise, I have also obtained AWS associate-level certifications as a Solutions Architect and Developer, further bolstering my skills in the cloud computing domain. My unwavering curiosity and drive push me to explore fresh avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, where I share my journey as an international student in Canada 🇨🇦.
-    imageUrl: "home/formal-pic-small.jpeg"
+    title: "রাহুল গুহ "
+    subtitle: "নমস্কার"
+    imageUrl: "home/rahul.jpg"
     imageWidth: 220
-    imageHeight: 220
+    imageHeight: 300
     # buttons:
     #   - name: Resume
     #     url: ""
