@@ -15,6 +15,10 @@ menu:
       name: জন্মদাগ সিরিজ
       url: /jonmodag
       weight: 20
+    - identifier: other-poetry
+      name: অন্যান্য কবিতা
+      url: /other-poetry
+      weight: 25
     - identifier: sadalap
       name: সদালাপী প্রলাপকথন
       url: /sadalap
