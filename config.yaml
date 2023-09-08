@@ -30,7 +30,7 @@ menu:
     - identifier: tags
       name: Tags
       url: /tags
-      weight: 50
+      weight: 60
     # - identifier: tags
     #   name: Tags
     #   url: /tags
@@ -73,15 +73,13 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:rahul.guha@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/rahul-guha/"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/rahulguha"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
+      url: "https://www.linkedin.com/in/rahul-guha/"
 
   # text search
   fuseOpts:
