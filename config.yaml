@@ -4,6 +4,7 @@ title: রাহুলের লেখা
 theme: PaperMod
 languageCode: bn-BN
 # publishDir: "docs/"
+paginate: 100
 
 menu:
   main:
@@ -51,6 +52,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
+  
 
   # for enchanced SEO
   env: production
