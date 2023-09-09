@@ -6,7 +6,7 @@ draft: false
 tags: ["সদালাপী প্রলাপকথন" ]
 weight: 1
 cover: 
-    image:  "/sadalap/images/rahul_self.png"
+    image:  "/sadalap/atmakathan/rahul_self.png"
 ---
 
 
