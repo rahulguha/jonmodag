@@ -90,14 +90,24 @@
     margin-bottom: var(--gap);
     text-align: center;
 }
-
+.entry-cover-list {
+    margin-bottom: var(--gap);
+    text-align: center;
+}
 .entry-cover img {
+    
     border-radius: var(--radius);
     pointer-events: none;
-    width: 100%;
+    width: 50%;
     height: auto;
 }
 
+.entry-cover-list img {
+    border-radius: var(--radius);
+    pointer-events: none;
+    width: 25%;
+    height: auto;
+}
 .entry-cover a {
     color: var(--secondary);
     box-shadow: 0 0px 0 var(--primary);
