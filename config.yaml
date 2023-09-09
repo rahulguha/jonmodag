@@ -12,6 +12,10 @@ menu:
       name: home
       url: /
       weight: 10
+    - identifier: new-kobita
+      name: নতুন কবিতা 
+      url: /new-kobita
+      weight: 15
     - identifier: jonmodag
       name: জন্মদাগ সিরিজ
       url: /jonmodag

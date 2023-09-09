@@ -4,7 +4,7 @@ description: "আমাকে তুমি অনেক দিয়েছো / জ
 dateString: আগস্ট ১৫, ২০১৯
 draft: false
 tags: [ "অন্যান্য কবিতা"]
-weight: 102
+weight: 10
 ---
 <pre>
 আমাকে তুমি অনেক দিয়েছো
