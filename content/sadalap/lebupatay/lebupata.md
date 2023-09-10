@@ -6,7 +6,7 @@ draft: false
 tags: ["সদালাপী প্রলাপকথন" ]
 weight: 2
 cover: 
-    image:  "./sadalap/lebupata/Lebu_Patay_Karamcha.jpg"
+    image:  "./sadalap/lebupatay/Lebu_Patay_Karamcha.jpg"
 ---
 
 
