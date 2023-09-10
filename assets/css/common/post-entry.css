@@ -95,7 +95,7 @@
     text-align: center;
 }
 .entry-cover img {
-    
+    align-items: center;
     border-radius: var(--radius);
     pointer-events: none;
     width: 50%;
