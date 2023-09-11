@@ -6,7 +6,7 @@ draft: false
 tags: ["সদালাপী প্রলাপকথন" ]
 weight: 3
 cover: 
-    image:  "./sadalap/dekha/Dekha.jpg"
+    image:  "./sadalap/ekhane-sob/ekhane-sob.jpg"
 ---
 
 
