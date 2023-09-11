@@ -4,9 +4,9 @@ description: "এখানে সব এমনই হয় – যে যার �
 dateString:  অক্টোবর, ২০০৭
 draft: false
 tags: ["সদালাপী প্রলাপকথন" ]
-weight: 2
+weight: 3
 cover: 
-    image:  "./sadalap/ekhane-sob/ekhane-sob.jpg"
+    image:  "./sadalap/dekha/Dekha.jpg"
 ---
 
 

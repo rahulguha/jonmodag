@@ -5,7 +5,7 @@ description: "কাউকে দেখলেই মনে হয় সব বল�
 dateString:  মার্চ, ২০০৭
 draft: false
 tags: ["সদালাপী প্রলাপকথন" ]
-weight: 4
+weight: 5
 cover: 
     image:  "./sadalap/perm-address/Permanent_Address.jpg"
 ---
