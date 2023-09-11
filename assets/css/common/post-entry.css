@@ -87,6 +87,7 @@
 }
 
 .entry-cover {
+               
     margin-bottom: var(--gap);
     text-align: center;
 }
@@ -95,10 +96,9 @@
     text-align: center;
 }
 .entry-cover img {
-    align-items: center;
     border-radius: var(--radius);
     pointer-events: none;
-    width: 50%;
+    width: 40%;
     height: auto;
 }
 
@@ -109,6 +109,7 @@
     height: auto;
 }
 .entry-cover a {
+    
     color: var(--secondary);
     box-shadow: 0 0px 0 var(--primary);
 }
