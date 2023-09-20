@@ -7,7 +7,7 @@ draft: false
 tags: ["সদালাপী প্রলাপকথন" ]
 weight: 5
 cover: 
-    image:  "./sadalap/perm-address/Permanent_Address.jpg"
+    image:  "./sadalap/perm-address/perm-address.jpg"
 ---
 
 \*\* এক \*\*\*\*

@@ -6,7 +6,7 @@ draft: false
 tags: ["সদালাপী প্রলাপকথন" ]
 weight: 4
 cover: 
-    image:  "./sadalap/amal-sudha-tomake/amal-sudha.jpg"
+    image:  "./sadalap/amal-sudha-tomake/sudha.jpg"
 ---
 
 অমল, সূধা তোমাকে ভোলে নি ...
