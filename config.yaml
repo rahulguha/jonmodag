@@ -13,7 +13,7 @@ menu:
       url: /
       weight: 10
     - identifier: new-kobita
-      name: নতুন কবিতা 
+      name: ২০২৩ নতুন কবিতা 
       url: /new-kobita
       weight: 15
     - identifier: jonmodag
