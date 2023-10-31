@@ -14,7 +14,7 @@ menu:
     #   weight: 10
     - identifier: new-kobita
       name: ২০২৩ 
-      url: /new-kobita
+      url: /tags/২০২৩/
       weight: 15
     - identifier: kothopokothon
       name: কথোপকথন 
