@@ -8,16 +8,20 @@ paginate: 100
 
 menu:
   main:
-    - identifier: home
-      name: home
-      url: /
-      weight: 10
+    # - identifier: home
+    #   name: home
+    #   url: /
+    #   weight: 10
     - identifier: new-kobita
-      name: ২০২৩ নতুন কবিতা 
+      name: ২০২৩ 
       url: /new-kobita
       weight: 15
+    - identifier: kothopokothon
+      name: কথোপকথন 
+      url: /kothopokothon
+      weight: 16
     - identifier: jonmodag
-      name: জন্মদাগ সিরিজ
+      name: জন্মদাগ
       url: /jonmodag
       weight: 20
     - identifier: other-poetry
