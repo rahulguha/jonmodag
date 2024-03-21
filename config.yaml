@@ -12,6 +12,10 @@ menu:
     #   name: home
     #   url: /
     #   weight: 10
+    - identifier: 2024
+      name: ২০২৪ 
+      url: /tags/২০২৪/
+      weight: 14
     - identifier: new-kobita
       name: ২০২৩ 
       url: /tags/২০২৩/
