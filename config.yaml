@@ -12,6 +12,10 @@ menu:
     #   name: home
     #   url: /
     #   weight: 10
+    - identifier: Abhaya
+      name: অভয়া  
+      url: /tags/অভয়া/
+      weight: 13
     - identifier: 2024
       name: ২০২৪ 
       url: /tags/২০২৪/
