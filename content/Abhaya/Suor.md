@@ -3,7 +3,7 @@ title: "শুওর নিধন যজ্ঞ "
 description: "আমাদের চারদিকে এখন বড় কাদা"
 dateString:  আগস্ট, ২০২৪
 draft: false
-tags: [ "অভয়া"  ]
+tags: [ "অভয়া" , "২০২৪"  ]
 weight: 11
 ---
 

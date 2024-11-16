@@ -3,7 +3,7 @@ title: "রংহীন ক্যানভাস"
 description: "কোন রং দেবো এই আকাশের গায়ে "
 dateString:  সেপ্টেম্বর, ২০২৪
 draft: false
-tags: [ "অভয়া"  ]
+tags: [ "অভয়া"  , "২০২৪" ]
 weight: 11
 ---
 

@@ -3,7 +3,7 @@ title: "মিছিলের সেই মুখ "
 description: "মানুষ খুঁজছে মিছিলের সেই মুখ "
 dateString:  সেপ্টেম্বর, ২০২৪
 draft: false
-tags: [ "অভয়া"  ]
+tags: [ "অভয়া", "২০২৪"   ]
 weight: 11
 ---
 

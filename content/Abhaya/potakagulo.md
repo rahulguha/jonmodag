@@ -3,7 +3,7 @@ title: "পতাকাগুলো সরিয়ে নাও"
 description: "পতাকা গুলো সরিয়ে নাও "
 dateString:  সেপ্টেম্বর, ২০২৪
 draft: false
-tags: [ "অভয়া"  ]
+tags: [ "অভয়া" , "২০২৪"  ]
 weight: 11
 ---
 

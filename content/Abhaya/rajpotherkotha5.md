@@ -3,7 +3,7 @@ title: "রাজপথের কথা - ৫ "
 description: "আমাদের সব মনে থাকবে "
 dateString:  অক্টোবর, ২০২৪
 draft: false
-tags: [ "অভয়া"  ]
+tags: [ "অভয়া" , "২০২৪"  ]
 weight: 11
 ---
 
