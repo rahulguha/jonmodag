@@ -37,7 +37,7 @@ menu:
       url: /other-poetry
       weight: 25
     - identifier: sadalap
-      name: সদালাপী প্রলাপকথন
+      name: সদালাপী
       url: /sadalap
       weight: 30
     - identifier: rifka
