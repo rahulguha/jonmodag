@@ -5,7 +5,8 @@ dateString: জুলাই, ২০২৫
 draft: false
 tags: ["বই"]
 weight: 11
-price: "$7 + Shipping ($4)"
+price: "বিনিময় মূল্য: $7 + Shipping $4"
+
 cover:
   image: "./boi/cover.jpg"
 ---

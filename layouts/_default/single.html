@@ -8,9 +8,25 @@
         ><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup
       >{{- end }}
     </h1>
-    {{if .Params.price}}
-    <h5 class="post-tags">Price: {{ .Params.price }}</h5>
-    {{- end}} {{- if .Description }}
+    {{if .Params.price}} {{/*
+    <h5 class="post-tags">
+      */}}
+      <a
+        href="https://www.paypal.com/ncp/payment/RKGKMJVWEMYJU"
+        target="_blank"
+        style="
+          background-color: #0070ba;
+          color: white;
+          padding: 8px 16px;
+          text-decoration: none;
+          border-radius: 4px;
+        "
+      >
+        Buy Now - {{ .Params.price }}
+      </a>
+      {{/*
+    </h5>
+    */}} {{- end}} {{- if .Description }}
 
     <div class="post-description">{{ .Description }}</div>
     {{- end }} {{- if not (.Param "hideMeta") }}
