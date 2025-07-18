@@ -1,10 +1,11 @@
 baseURL: "https://rahulguha.me"
 # languageCode: en-us
-title: রাহুলের লেখা 
+title: রাহুলের লেখা
 theme: PaperMod
 languageCode: bn-BN
 # publishDir: "docs/"
-paginate: 100
+pagination:
+  pagerSize: 10
 
 menu:
   main:
@@ -13,19 +14,19 @@ menu:
     #   url: /
     #   weight: 10
     - identifier: Abhaya
-      name: অভয়া  
+      name: অভয়া
       url: /tags/অভয়া/
       weight: 13
     - identifier: 2024
-      name: ২০২৪ 
+      name: ২০২৪
       url: /tags/২০২৪/
       weight: 14
     - identifier: new-kobita
-      name: ২০২৩ 
+      name: ২০২৩
       url: /tags/২০২৩/
       weight: 15
     - identifier: kothopokothon
-      name: কথোপকথন 
+      name: কথোপকথন
       url: /kothopokothon
       weight: 16
     - identifier: jonmodag
@@ -69,7 +70,9 @@ params:
   ShowCodeCopyButtons: true
   hideMeta: false
   googleAnalytics: "G-Z8KGMHQJS7"
-  
+  social:
+    # twitter: "your_twitter"
+    github: "https://github.com/rahulguha"
 
   # for enchanced SEO
   env: production

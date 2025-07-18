@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>২০২৩ on রাহুলের লেখা</title>
+    <link>http://localhost:1313/tags/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A9/</link>
+    <description>Recent content in ২০২৩ on রাহুলের লেখা</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>bn-BN</language>
+    <atom:link href="http://localhost:1313/tags/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ঠিকানা</title>
+      <link>http://localhost:1313/other-poetry/thikana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/other-poetry/thikana/</guid>
+      <description>রাস্তা যেখানে পৌঁছয় / সেটাই আমার ঠিকানা </description>
+    </item>
+    <item>
+      <title>আমাকে দাও</title>
+      <link>http://localhost:1313/new-kobita/amake-dao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/new-kobita/amake-dao/</guid>
+      <description>তোমার অন্ধকার আমায় দাও / আমি তাতে গাঢ় রং আলপনা দেব </description>
+    </item>
+    <item>
+      <title>জন্মদাগ ১০৪ </title>
+      <link>http://localhost:1313/new-kobita/jonmodag-104/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/new-kobita/jonmodag-104/</guid>
+      <description>একসময় একটি দলে ছিলাম / গলা মেলাতাম চেনা শোনা সূরে  </description>
+    </item>
+    <item>
+      <title>জন্মদাগ ১০৩ </title>
+      <link>http://localhost:1313/new-kobita/jonmodag-103/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/new-kobita/jonmodag-103/</guid>
+      <description>আসলে বলবার মতন কথা বড় কম </description>
+    </item>
+    <item>
+      <title>নদী তোমার জন্ম কোথায় ?</title>
+      <link>http://localhost:1313/kothopokothon/kothopokothon-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kothopokothon/kothopokothon-2/</guid>
+      <description>নদী তোমার জন্ম কোথায় ?</description>
+    </item>
+    <item>
+      <title>বাস্তুভিটা - ছিলো কোথায়  ?</title>
+      <link>http://localhost:1313/kothopokothon/kothopokothon-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kothopokothon/kothopokothon-3/</guid>
+      <description>- নদীর পাড়ে - ক্লান্ত বটের ঝুরির গায়ে হেলান দিয়ে </description>
+    </item>
+    <item>
+      <title>রাস্তা তোমার বাড়ি কোথায় ?</title>
+      <link>http://localhost:1313/kothopokothon/kothopokothon-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kothopokothon/kothopokothon-1/</guid>
+      <description>রাস্তা তোমার বাড়ি কোথায় ? - দুচোখ যেথায় গেছে সেথায় </description>
+    </item>
+  </channel>
+</rss>
