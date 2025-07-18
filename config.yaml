@@ -13,6 +13,10 @@ menu:
     #   name: home
     #   url: /
     #   weight: 10
+    - identifier: boi
+      name: বই
+      url: /tags/বই/
+      weight: 12
     - identifier: Abhaya
       name: অভয়া
       url: /tags/অভয়া/
@@ -34,7 +38,7 @@ menu:
       url: /jonmodag
       weight: 20
     - identifier: other-poetry
-      name: অন্যান্য কবিতা
+      name: অন্যান্য
       url: /other-poetry
       weight: 25
     - identifier: sadalap

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bois on রাহুলের লেখা</title>
+    <link>http://localhost:1313/boi/</link>
+    <description>Recent content in Bois on রাহুলের লেখা</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>bn-BN</language>
+    <atom:link href="http://localhost:1313/boi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>এখনো লাইনেই আছি</title>
+      <link>http://localhost:1313/boi/ekhono/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/boi/ekhono/</guid>
+      <description>এখনো লাইনেই আছি</description>
+    </item>
+    <item>
+      <title>রিফকার চিঠি</title>
+      <link>http://localhost:1313/boi/rifka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/boi/rifka/</guid>
+      <description>রিফকার চিঠি</description>
+    </item>
+  </channel>
+</rss>
