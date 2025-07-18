@@ -6,6 +6,7 @@ draft: false
 tags: ["বই"]
 weight: 11
 price: "বিনিময় মূল্য: $7 + Shipping $4"
+price_no_shipping: "বিনিময় মূল্য: $7"
 
 cover:
   image: "./boi/cover.jpg"
